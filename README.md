@@ -22,7 +22,7 @@ Projeto de portfólio pessoal desenvolvido para demonstrar habilidades em desenv
 
 ## 🖥️ Demonstração
 
-[![Visualização do Projeto](https://img.shields.io/badge/Deploy-Visualizar%20Projeto-green)](https://seusite.com)
+[![Visualização do Projeto](https://img.shields.io/badge/Deploy-Visualizar%20Projeto-green)](https://curriculo-xi-rosy.vercel.app/)
 
 ## 🛠️ Estrutura do Projeto
 portfolio/
@@ -71,7 +71,7 @@ portfolio/
 
 OU
 
-- [![Clique aqui](https://img.shields.io/badge/Deploy-Visualizar%20Projeto-green)](https://seusite.com)
+- [![Clique aqui](https://img.shields.io/badge/Deploy-Visualizar%20Projeto-green)](https://curriculo-xi-rosy.vercel.app/)
 
 ## Tecnologias Utilizadas 💡
 
