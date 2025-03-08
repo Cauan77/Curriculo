@@ -29,27 +29,9 @@ Este README foi estruturado para:
 - Semântica HTML5 moderna;
 - Estrutura de navegação acessível;
 - Meta tags para responsividade;
-- Organização BEM para classes CSS.
 
 ### CSS
-```css
-/* Sistema de cores com variáveis */
-:root {
-    --cor-primaria: black;
-    --cor-terciaria: #24df84;
-    --fonte-primaria: "Krona One", sans-serif;
-}
-
-/* Media Queries integradas */
-.cabecalho__menu {
-    gap: 80px; /* Espaçamento responsivo */
-}
-
-/* Efeitos hover dinâmicos */
-.apresentacao__links__link__github:hover {
-    background-color: var(--cor-hover);
-}
-```
+- Organização BEM para classes CSS.
 
 ## 🚀 Como Executar
 
@@ -61,7 +43,6 @@ OU
 
 ## Tecnologias Utilizadas 💡
 
-![Static Badge](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=663399&logoSize=auto&labelColor=black)
 
