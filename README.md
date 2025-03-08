@@ -1,3 +1,5 @@
+![Preview do Projeto](./assets/Imagem.png)
+
 Este README foi estruturado para:
 1. Demonstrar organização técnica;
 2. Destacar competências front-end;
@@ -5,11 +7,6 @@ Este README foi estruturado para:
 4. Facilitar a avaliação do código;
 5. Contextualizar as escolhas técnicas.
 # Portfólio Front-end - Cauan Henrique
-
-![Preview do Projeto](./assets/Imagem.png)
-
-Projeto de portfólio pessoal desenvolvido para demonstrar habilidades em desenvolvimento front-end utilizando HTML e CSS moderno.
-
 ## ✨ Funcionalidades Principais
 
 - Design responsivo para diferentes telas
