@@ -24,19 +24,6 @@ Projeto de portfólio pessoal desenvolvido para demonstrar habilidades em desenv
 
 [![Visualização do Projeto](https://img.shields.io/badge/Deploy-Visualizar%20Projeto-green)](https://curriculo-orpin-six.vercel.app/)
 
-## 🛠️ Estrutura do Projeto
-portfolio/
-├── index.html
-├── about.html
-├── curriculo.html
-├── styles/
-│ └── style.css
-└── assets/
-├── Imagem.png
-├── Logo Github.png
-└── ...demais imagens
-
-
 ## 🔍 Destaques Técnicos
 
 ### HTML
