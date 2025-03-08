@@ -1,3 +1,5 @@
+# Portfólio Front-end - Cauan Henrique
+
 ![Preview do Projeto](./assets/Imagem.png)
 
 Este README foi estruturado para:
@@ -6,7 +8,7 @@ Este README foi estruturado para:
 3. Mostrar conhecimento em boas práticas;
 4. Facilitar a avaliação do código;
 5. Contextualizar as escolhas técnicas.
-# Portfólio Front-end - Cauan Henrique
+
 ## ✨ Funcionalidades Principais
 
 - Design responsivo para diferentes telas
