@@ -9,6 +9,8 @@ Este README foi estruturado para:
 4. Facilitar a avaliação do código;
 5. Contextualizar as escolhas técnicas.
 
+Este projeto é um site pessoal desenvolvido em HTML e CSS, com design moderno e responsivo. Apresenta Cauan Henrique, desenvolvedor Front-end, destacando habilidades em HTML/CSS, portfólio e redes sociais. Possui menu de navegação, seções de conteúdo e links estilizados com efeitos interativos. Cores escuras e detalhes em verde reforçam a identidade visual, adaptável a dispositivos móveis.
+
 ## ✨ Funcionalidades Principais
 
 - Design responsivo para diferentes telas
